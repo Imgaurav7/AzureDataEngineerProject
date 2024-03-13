@@ -1,0 +1,9 @@
+{
+	"name": "DataEngineerProject075",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e5883899-eebf-4482-93ed-f9f2dbcc76b3",
+		"tenantId": "3a85e3a7-c6ca-479a-a5b6-696da753a8a1"
+	}
+}
