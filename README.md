@@ -1,7 +1,7 @@
 # AzureDataEngineerProject
 
 
-In this project, we're using a regular database called SQL Server that's kept within the company instead of using a cloud-based one. Normally, companies move their regular databases to the cloud. We have about six or seven sets of data in this database. We're moving all of this data to the cloud using a tool called Azure Data Factory. This tool helps copy all the data from our regular database and move it to the cloud. We're storing this data in a place called Azure Data Lake Gen2.
+In this project, we're using a regular database called SQL Server that's kept within the company instead of using a cloud-based one. We have about six or seven sets of data in this database. We're moving all of this data to the cloud using a tool called Azure Data Factory. This tool helps copy all the data from our regular database and move it to the cloud. We're storing this data in a place called Azure Data Lake Gen2.
 
 Once the data is in Azure Data Lake, we're using another tool called Azure Databricks to make the data better. Azure Databricks helps us change the raw data into something more useful. It's like polishing raw material into something shiny and valuable.We have used lake house architecture for this project means We're organizing the data into different layers, like bronze, silver, and gold.
 
