@@ -2,7 +2,7 @@
 	"name": "SqlServerTable_DS",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "OnpremSqlServer_LS",
+			"referenceName": "New_OnePrem_LS",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
